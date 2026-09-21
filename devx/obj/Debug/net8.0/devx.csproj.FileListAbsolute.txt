@@ -1,0 +1,13 @@
+C:\Users\platu\OneDrive\Desktop\devx\devx\bin\Debug\net8.0\devx.deps.json
+C:\Users\platu\OneDrive\Desktop\devx\devx\bin\Debug\net8.0\devx.dll
+C:\Users\platu\OneDrive\Desktop\devx\devx\bin\Debug\net8.0\devx.pdb
+C:\Users\platu\OneDrive\Desktop\devx\devx\obj\Debug\net8.0\devx.csproj.AssemblyReference.cache
+C:\Users\platu\OneDrive\Desktop\devx\devx\obj\Debug\net8.0\devx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\platu\OneDrive\Desktop\devx\devx\obj\Debug\net8.0\devx.AssemblyInfoInputs.cache
+C:\Users\platu\OneDrive\Desktop\devx\devx\obj\Debug\net8.0\devx.AssemblyInfo.cs
+C:\Users\platu\OneDrive\Desktop\devx\devx\obj\Debug\net8.0\devx.csproj.CoreCompileInputs.cache
+C:\Users\platu\OneDrive\Desktop\devx\devx\obj\Debug\net8.0\devx.dll
+C:\Users\platu\OneDrive\Desktop\devx\devx\obj\Debug\net8.0\refint\devx.dll
+C:\Users\platu\OneDrive\Desktop\devx\devx\obj\Debug\net8.0\devx.pdb
+C:\Users\platu\OneDrive\Desktop\devx\devx\obj\Debug\net8.0\ref\devx.dll
+C:\Users\platu\OneDrive\Desktop\devx\devx\obj\Debug\net8.0\devx.csproj.Up2Date

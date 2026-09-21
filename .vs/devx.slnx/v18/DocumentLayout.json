@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\platu\\OneDrive\\Desktop\\devx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4AACC5-EC71-9D6B-ED89-3C9FE9922168}|devx\\devx.csproj|c:\\users\\platu\\onedrive\\desktop\\devx\\devx\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4AACC5-EC71-9D6B-ED89-3C9FE9922168}|devx\\devx.csproj|solutionrelative:devx\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\platu\\OneDrive\\Desktop\\devx\\devx\\Command.cs",
+              "RelativeDocumentMoniker": "devx\\Command.cs",
+              "ToolTip": "C:\\Users\\platu\\OneDrive\\Desktop\\devx\\devx\\Command.cs",
+              "RelativeToolTip": "devx\\Command.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T02:09:11.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
