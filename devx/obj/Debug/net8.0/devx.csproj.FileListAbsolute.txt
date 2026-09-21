@@ -11,3 +11,4 @@ C:\Users\platu\OneDrive\Desktop\devx\devx\obj\Debug\net8.0\refint\devx.dll
 C:\Users\platu\OneDrive\Desktop\devx\devx\obj\Debug\net8.0\devx.pdb
 C:\Users\platu\OneDrive\Desktop\devx\devx\obj\Debug\net8.0\ref\devx.dll
 C:\Users\platu\OneDrive\Desktop\devx\devx\obj\Debug\net8.0\devx.csproj.Up2Date
+C:\Users\platu\OneDrive\Desktop\devx\devx\obj\Debug\net8.0\devx.sourcelink.json
